@@ -18,4 +18,4 @@ To create Customer cluster to identify the different types of customers who will
 ### Methods Used
 * Machine Learning
 * Data Visualization
-* Predictive Modeling 
+* Clustering 
