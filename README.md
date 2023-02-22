@@ -1,4 +1,4 @@
-# Mall-customer-segmentat
+# Mall-customer-segmentation
 ![Clustering](https://user-images.githubusercontent.com/115403186/208148581-25313a4d-440a-4271-a240-4e94c9934061.png)
 
 ## Table Of Contents
